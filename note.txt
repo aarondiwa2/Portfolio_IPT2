@@ -1,0 +1,10 @@
+design me a portfolio with dark blue theme design
+
+portfolio with the following parts: About Me, Skills, Projects and Reflection with abcde. list of questions keep it empty for now. provide temporary details for the following
+
+About me: personal introduction, photo, interests and goals: (I., II.)
+Skills: programming languages, Tools, frameworks or platforms used
+Projects: Academic or Personal projects created in the past
+
+half is about me and half is skills below are the rest
+use modern design ideas
